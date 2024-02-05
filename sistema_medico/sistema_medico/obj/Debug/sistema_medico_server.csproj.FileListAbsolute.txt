@@ -1,0 +1,7 @@
+C:\Users\Keithy Vilorio\Source\Repos\sistema_medico\sistema_medico\bin\Debug\sistema_medico.exe.config
+C:\Users\Keithy Vilorio\Source\Repos\sistema_medico\sistema_medico\bin\Debug\sistema_medico.exe
+C:\Users\Keithy Vilorio\Source\Repos\sistema_medico\sistema_medico\bin\Debug\sistema_medico.pdb
+C:\Users\Keithy Vilorio\Source\Repos\sistema_medico\sistema_medico\obj\Debug\sistema_medico_server.csproj.AssemblyReference.cache
+C:\Users\Keithy Vilorio\Source\Repos\sistema_medico\sistema_medico\obj\Debug\sistema_medico_server.csproj.CoreCompileInputs.cache
+C:\Users\Keithy Vilorio\Source\Repos\sistema_medico\sistema_medico\obj\Debug\sistema_medico.exe
+C:\Users\Keithy Vilorio\Source\Repos\sistema_medico\sistema_medico\obj\Debug\sistema_medico.pdb
